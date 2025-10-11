@@ -7,13 +7,13 @@
 <h2 style="font-size:2em;">🧠 About Me:</h2>
 
 
-- 🔭 Working on an infinite loop called self-improvement();
+🔭 Working on an infinite loop called self-improvement();
   
-- 🌱 I’m currently learning **DevOps** and working on my **idea project**
+🌱 I’m currently learning **DevOps** and working on my **idea project**
   
-- 💬 Ask me about **SDE, Frontend, Java, Backend, Databases, DSA, or Competitive Programming**
+💬 Ask me about **SDE, Frontend, Java, Backend, Databases, DSA, or Competitive Programming**
   
--  📫 Reach me at **devyanshilg@gmail.com** - ⚡ Fun fact: **Curiosity is my favorite programming language.**
+📫 Reach me at **devyanshilg@gmail.com** - ⚡ Fun fact: **Curiosity is my favorite programming language.**
 
 ---
 
