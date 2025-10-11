@@ -1,32 +1,30 @@
-<h1 align="center">👋 Hello, I'm DEVYANSHI GOSWAMI</h1>
+<h1 align="center" style="font-size: 4em;">👋 Hello, I'm DEVYANSHI GOSWAMI</h1>
 
-<h3 align="center">Software Developer | Full Stack Developer | Devops and AI enthusiast!!</h3>
+<h2 align="center" style="font-size: 2em;">Software Developer | Full Stack Developer | DevOps & AI Enthusiast</h2>
 
----
+<hr style="height:3px;border:none;color:#333;background-color:#333;" />
 
-### 🧠 About Me:
+<h2 style="font-size:2em;">🧠 About Me:</h2>
 
-- 🔭 Working on an infinite loop called self-improvement();
-  
-- 🌱 I’m currently learning **DevOps** and working on my **idea project**
-  
-- 💬 Ask me about **SDE, Frontend, Java, Backend, Databases, DSA, or Competitive Programming**
-  
-- 📫 Reach me at **devyanshilg@gmail.com**
-  
-- ⚡ Fun fact: **Curiosity is my favorite programming language.**
+<ul style="font-size:1.5em;">
+  <li>🔭 Working on an infinite loop called <b>self-improvement();</b></li>
+  <li>🌱 Currently learning <b>DevOps</b> and working on my <b>idea project</b></li>
+  <li>💬 Ask me about <b>SDE, Frontend, Java, Backend, Databases, DSA, Competitive Programming</b></li>
+  <li>📫 Reach me at <b>devyanshilg@gmail.com</b></li>
+  <li>⚡ Fun fact: <b>Curiosity is my favorite programming language</b></li>
+</ul>
 
----
+<h2 style="font-size:2em;">🌍 Socials:</h2>
 
-### 🌍 Socials:
+<p style="font-size:1.5em;">
+  <a href="https://www.linkedin.com/in/devyanshigoswami-647414250">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-round&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-round&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devyanshigoswami-647414250)
+<h2 style="font-size:2em;">💻 Tech Stack:</h2>
 
----
-
-<h2 align="left">💻 Tech Stack: </h2>
-
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -52,6 +50,3 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
-
-
----
