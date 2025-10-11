@@ -13,7 +13,9 @@
   
 💬 Ask me about **SDE, Frontend, Java, Backend, Databases, DSA, or Competitive Programming**
   
-📫 Reach me at **devyanshilg@gmail.com** - ⚡ Fun fact: **Curiosity is my favorite programming language.**
+📫 Reach me at **devyanshilg@gmail.com**
+
+⚡ Fun fact: **Curiosity is my favorite programming language.**
 
 ---
 
