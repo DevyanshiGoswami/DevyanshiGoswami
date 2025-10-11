@@ -2,7 +2,6 @@
 
 <h2 align="center" style="font-size: 2em;">Software Developer | Full Stack Developer | DevOps & AI Enthusiast</h2>
 
----
 
 <h2 style="font-size:2em;">🧠 About Me:</h2>
 
@@ -17,13 +16,12 @@
 
 ⚡ Fun fact: **Curiosity is my favorite programming language.**
 
----
 
 <h2 style="font-size:2em;">🌍 Socials:</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-round&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devyanshigoswami-647414250) 
 
----
+
 
 <h2 style="font-size:2em;">💻 Tech Stack:</h2>
 
