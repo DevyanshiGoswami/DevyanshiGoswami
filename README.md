@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm DEVYANSHI GOSWAMI</h1>
 
-<!--
-**DevyanshiGoswami/DevyanshiGoswami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Software Developer | Full Stack Developer | Devops enthusiast!!</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me:
+
+- 🔭 Working on an infinite loop called self-improvement();
+- 🌱 I’m currently learning **DevOps** and working on my **idea project**
+- 💬 Ask me about **SDE, Frontend, Java, Backend, Databases, DSA, or Competitive Programming**
+- 📫 Reach me at **devyanshilg@gmail.com**
+- ⚡ Fun fact: **Curiosity is my favorite programming language.**
+
+---
+
+### 🌍 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devyanshigoswami-647414250)
+)
+
+---
