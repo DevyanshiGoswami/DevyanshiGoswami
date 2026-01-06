@@ -14,7 +14,7 @@
   
 📫 Reach me at **devyanshilg@gmail.com**
 
-⚡ Fun fact: **Curiosity is my favorite programming language.**
+⚡ Fact: **Curiosity is my favorite programming language.**
 
 
 <h2 style="font-size:2em;">🌍 Socials:</h2>
