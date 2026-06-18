@@ -1,5 +1,5 @@
 <h1 align="center" style="font-size: 4em;">
- # :wave: Hello, I'm DEVYANSHI GOSWAMI</h1>
+ <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="66"> Hello, I'm DEVYANSHI GOSWAMI</h1>
 
 <h2 align="center" style="font-size: 2em;">Software Developer | Full Stack Developer | AI Enthusiast</h2>
 
