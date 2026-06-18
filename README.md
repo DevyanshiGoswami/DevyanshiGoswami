@@ -10,11 +10,13 @@
   
 🌱 I’m currently learning **DevOps** and working on my **idea project**
   
-💬 Ask me about **SDE, Frontend, Java, Backend, Databases, DSA, or Competitive Programming**
+💬 Ask me about **SDE, Frontend, Java, Backend, Databases, DSA, Python , AI&ML, and Competitive Programming**
   
 📫 Reach me at **devyanshilg@gmail.com**
 
 ⚡ Fact: **Curiosity is my favorite programming language.**
+
+ I'm looking to collaborate on Agentic AI Development & Full-Stack Development
 
 
 <h2 style="font-size:2em;">🌍 Socials:</h2>
