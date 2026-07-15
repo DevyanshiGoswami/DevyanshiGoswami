@@ -13,7 +13,7 @@
   
 💬 Ask me about **SDE, Frontend, Java, Backend, Databases, DSA, Python , AI&ML, and Competitive Programming**
   
-📫 Reach me at **devyanshilg@gmail.com**
+📫 Reach me at **devyanshilg@gmail.com**  
 📄 Know me more **https://devyanshi-goswami-portfolio.vercel.app/**
 
 ⚡ Fact: **Curiosity is my favorite programming language.**
