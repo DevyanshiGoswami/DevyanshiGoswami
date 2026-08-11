@@ -15,8 +15,6 @@
   
 📫 Reach me at **devyanshilg@gmail.com**  
 
-📄 Know me more **https://devyanshi-goswami-portfolio.vercel.app/**
-
 ⚡ Fact: **Curiosity is my favorite programming language.**
 
 👥 I'm looking to collaborate on Agentic AI Development & Full-Stack Development
