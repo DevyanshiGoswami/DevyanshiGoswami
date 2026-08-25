@@ -17,7 +17,7 @@
 
 ⚡ Fact: **Curiosity is my favorite programming language.**
 
-👥 I'm looking to collaborate on Rust Developer & Agentic AI Development & Full-Stack Development.
+👥 I'm looking to collaborate on Rust Development & Agentic AI Development & Full-Stack Development.
 
 
 <h2 style="font-size:2em;">🌍 Socials:</h2>
