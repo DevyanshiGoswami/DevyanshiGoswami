@@ -9,7 +9,7 @@
 
 🔭 Working on an infinite loop called self-improvement();
   
-🌱 I’m currently learning **DevOps** and working on my **idea project**
+🌱 I’m currently  working on my **Rust projects and AI projects**
   
 💬 Ask me about **SDE, Frontend, Rust, Java, Backend, Databases, DSA, Python , AI&ML, and Competitive Programming**
   
