@@ -11,7 +11,7 @@
   
 🌱 I’m currently learning **DevOps** and working on my **idea project**
   
-💬 Ask me about **SDE, Frontend,Rust, Java, Backend, Databases, DSA, Python , AI&ML, and Competitive Programming**
+💬 Ask me about **SDE, Frontend, Rust, Java, Backend, Databases, DSA, Python , AI&ML, and Competitive Programming**
   
 📫 Reach me at **devyanshilg@gmail.com**  
 
