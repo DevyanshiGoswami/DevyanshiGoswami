@@ -11,7 +11,7 @@
   
 🌱 I’m currently  working on my **Rust projects and AI projects**
   
-💬 Ask me about **SDE, Frontend, Rust, Java, Backend, Databases, DSA, Python , AI&ML, and Competitive Programming**
+💬 Ask me about **SDE, Frontend, Rust, Go, DeFi, Web3, Blockchain, Java, Backend, Databases, DSA, Python , AI&ML, and Competitive Programming**
   
 📫 Reach me at **devyanshilg@gmail.com**  
 
